@@ -33,6 +33,16 @@ There are 3 servers: a salt master, an app server and a database server.
 
 This is fairly simple to start, simply:
 
-  vagrant up
+    vagrant up
 
 Enjoy!
+
+## Play!
+
+After provision, visit your app server: http://10.10.8.3/
+
+Login with the following credentials:
+
+ - Host: db.salt.local
+ - User: salt
+ - Pass: s4ltm4$t3r!
